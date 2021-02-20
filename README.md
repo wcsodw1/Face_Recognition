@@ -48,7 +48,7 @@ And then, you can divide different people's face with those individual high-dime
 ### The application of 5 & 68 landmarks for grab the location to the face
 
 - Show the output of 5-Landmarks
-![image](data.png)
+ ![image](data/image/PastorPeter.png)
 
 - Show the output of 68-Landmarks :
-![image](data.png)
+ ![image](data/image/hope2.png)
