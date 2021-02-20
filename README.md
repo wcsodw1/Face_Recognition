@@ -12,7 +12,7 @@ And then, you can divide different people's face with those individual high-dime
 
 - Here some example showing how does it work :
 
- ![image](data/image/consine similarity.png)
+ ![image](data/image/consine_similarity.png)
 
 	
 	
