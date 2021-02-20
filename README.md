@@ -19,14 +19,11 @@ And then, you can divide different people's face with those individual high-dime
 
    Here show some different skill in softmax, obviously the right one(AM-Softmax) having the greatest result. 
  ![image](data/image/AM_Softmax.png)
-
-	
-	
-	
-- Show image about the face dievided from 1.high dimension 2.AM-Softmax function
+ 
+ more imformation about AM-Softmax : https://towardsdatascience.com/additive-margin-softmax-loss-am-softmax-912e11ce1c6b
 
 
-## 2.Use Face-Recognition in real world ?
+## 2.How specific showing Face-Recognition in the real world ?
 
 - Here is the example of my own image compare with others people, and you'll discover some important index, like : 
 
