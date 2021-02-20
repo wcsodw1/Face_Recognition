@@ -32,6 +32,9 @@ And then, you can divide different people's face with those individual high-dime
 
 - Use Cosine-Similarity / Euclidian-Similarity to Digitizing the distance between two different face.
 
+ ![image](data/image/cos_sim.png)
+ ![image](data/image/euclidean_dis.png)
+
 ### B.Threshold - Setting : 
 
 - Setting threshold For divide deifferent face.  
