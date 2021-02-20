@@ -7,12 +7,12 @@
 
 ## 1.What is & Why Face-Recognition ?
 
-- Face-Recognition is the technics for extract the individual-face-information, transforming into the high dimension vector.
+- Face-Recognition is the technology for extract the individual-face-information, transforming into the high dimension vector.
 And then, you can divide different people's face with those individual high-dimension vector,  
 
 - Here some example showing how does it work :
 
- ![image](data/2.png)
+ ![image](data/image/consine similarity.png)
 
 	
 	
