@@ -16,6 +16,7 @@ And then, you can divide different people's face with those individual high-dime
  2. Every spot mean different image, if the image is the same person's face, the spot should be closer. 
 
  ![image](data/image/high_dimension2.png)
+ ![image](data/image/AM_Softmax3.png)
 
    Here show some different skill in softmax, obviously the right one(AM-Softmax) having the greatest result. 
  ![image](data/image/AM_Softmax.png)
