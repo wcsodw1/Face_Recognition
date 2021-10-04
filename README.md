@@ -19,7 +19,7 @@ And then, you can divide different people's face with those individual high-dime
  ![image](data/image/AM_Softmax3.png)
 
    Here show some different skill in softmax, obviously the right one(AM-Softmax) having the greatest result. 
- ![image](data/image/AM_Softmax.JPG)
+ ![image](data/image/AM_Softmax1.JPG)
  
  more imformation about AM-Softmax : https://towardsdatascience.com/additive-margin-softmax-loss-am-softmax-912e11ce1c6b
 
