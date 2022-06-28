@@ -1,5 +1,5 @@
 # python 5_68_landmarks_image.py -i "../data/image/face/girl.JPG" -m "../data/models/68_landmarks/shape_predictor_68_face_landmarks.dat" -o "../data/output/68_landmarks/girl.JPG" -d "3"
-# python 5_68_landmarks_image.py -i "../data/image/face/david_hope.jpg" -m "../data/models/5_landmarks/shape_predictor_5_face_landmarks.dat" -o "../data/output/5_landmarks/david_hope.jpg" -d "5"
+# python 5_68_landmarks_image.py -i "../../../Data/face_recognition/img/esther_group.jpg" -m "../../../Data/face_recognition/model/shape_predictor_68_face_landmarks.dat" -o "../data/output/esther_group.jpg" -d "3"
 
 import cv2
 import dlib
@@ -43,8 +43,8 @@ for index, face in enumerate(dets):
 cv2.imwrite(args["output"], img)
 
 # 5.show image :
-# cv2.imshow("face-rendered", img)
-# cv2.waitKey(0)
+cv2.imshow("face-rendered", img)
+cv2.waitKey(0)
 
 
 # Set path (can replace by argument)
