@@ -51,4 +51,6 @@ And then, you can divide different people's face with those individual high-dime
  ![image](data/image/PastorPeter.jpg)
 
 - Show the output of 68-Landmarks :
+ ![image](data/output/esther_group2.jpg)
+ ![image](data/output/test.jpg)
  ![image](data/image/hope2.jpg)
